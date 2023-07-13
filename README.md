@@ -1,9 +1,6 @@
 # README
 
-### This is an anonymous repository for the paper "FLED: Fine-Grained Poisoning Attacks for Accurate Sub-Optimal Traps". We have provided a simple demonstration of FLED on the CIFAR10 dataset.
-
-### It aims to launch precise model poisoning attacks (MPAs) in federated learning. The main data directory shall be as follows:
-
+### We have provided a simple demonstration of F-FMPA (free to migrate it to other FL scenarios). It aims to launch precise model poisoning attacks (MPAs) in federated learning. 
 
 #### Test:
 
