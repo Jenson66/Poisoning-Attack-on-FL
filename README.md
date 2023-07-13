@@ -20,3 +20,6 @@ numpy==1.19.5
 pandas==1.1.5
 
 pickleshare==0.7.4
+
+#### We introduce three attack primitives:
+![图片1](https://github.com/ZhangHangTao/Poisoning-Attack-on-FL/assets/77653114/64ef2c20-4318-4a74-b90f-9cd22d6dd7b4)
